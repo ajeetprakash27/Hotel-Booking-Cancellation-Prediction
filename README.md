@@ -32,8 +32,8 @@ ________________________________________________________________________________
 
 The dataset contains 10,000 hotel booking records with 28 features.
 
-Key Columns:
-Feature	Description
+Key Columns:<br>
+Feature	Description<br>
 booking_date-------	Date when the booking was made<br>
 arrival_date-------	Planned check-in date<br>
 lead_time	Days----- between booking and arrival<br>
