@@ -20,12 +20,12 @@ Repository Includes:<br>
 ✔ Prediction Pipeline<br>
 📂 2. Project Structure
 📁 Hotel Booking Cancellation Prediction
-├── index.ipynb                # Main notebook (EDA + ML)<br>
-├── Dataset.csv                # Dataset<br>
-├── eda_outputs/               # Saved plots & analysis files<br>
-├── models/                    # Saved trained models<br>
-├── README.md                  # Documentation<br>
-└── utils/                     # Helper scripts (optional)<br>
+├── index.ipynb  ---------              # Main notebook (EDA + ML)<br>
+├── Dataset.csv  ---------              # Dataset<br>
+├── eda_outputs/ ---------              # Saved plots & analysis files<br>
+├── models/      ---------              # Saved trained models<br>
+├── README.md    ---------              # Documentation<br>
+└── utils/       ---------              # Helper scripts (optional)<br>
 __________________________________________________________________________________________________________________________________________
 📊 3. Dataset Description
 
