@@ -18,8 +18,9 @@ Repository Includes:<br>
 ✔ ML Modeling (Logistic Regression, Random Forest, XGBoost)<br>
 ✔ SHAP Explainability<br>
 ✔ Prediction Pipeline<br>
-📂 2. Project Structure
-📁 Hotel Booking Cancellation Prediction
+📂 2. Project Structure<br>
+
+📁 Hotel Booking Cancellation Prediction<br>
 ├── index.ipynb  ---------              # Main notebook (EDA + ML)<br>
 ├── Dataset.csv  ---------              # Dataset<br>
 ├── eda_outputs/ ---------              # Saved plots & analysis files<br>
