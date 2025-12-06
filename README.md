@@ -43,7 +43,7 @@ Feature	Description<br>
 -stay_length--------	Total nights stayed<br>
 -revenue------------	Revenue generated<br>
 
-Target Variable:
+Target Variable:<br>
 -cancelled = 1 → booking canceled<br>
 -cancelled = 0 → booking kept<br>
 
