@@ -3,7 +3,7 @@ ________________________________________________________________________________
 🧾 1. Project Overview
 
 This project develops an interpretable machine learning model to predict hotel booking cancellations using historical booking data.
-
+________________________________________________________________________________________________________________________________________
 🎯 The model helps hotels:<br>
 
 1] Reduce revenue loss<br>
