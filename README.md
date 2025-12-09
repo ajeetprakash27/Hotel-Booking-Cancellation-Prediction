@@ -19,7 +19,7 @@ Repository Includes:<br>
 ✔ SHAP Explainability<br>
 ✔ Prediction Pipeline<br>
 📂 2. Project Structure<br>
-
+_____________________________________________________________________________________________________________________________________
 📁 Hotel Booking Cancellation Prediction<br>
 ├── index.ipynb  ---------              # Main notebook (EDA + ML)<br>
 ├── Dataset.csv  ---------              # Dataset<br>
@@ -46,7 +46,7 @@ Feature	Description<br>
 Target Variable:<br>
 -cancelled = 1 → booking canceled<br>
 -cancelled = 0 → booking kept<br>
-
+_______________________________________________________________________________________________________________________________________
 🔍 4. Exploratory Data Analysis (EDA)
 
 The EDA notebook includes:
